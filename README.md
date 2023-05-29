@@ -1,4 +1,4 @@
 # crypto-escrow
 experimenting
 
-## read the license or get sued
+# read the license or get sued
